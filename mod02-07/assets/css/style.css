@@ -1,0 +1,27 @@
+.jumbotron {
+	height: 100vh;
+	background-image: url("../img/bg.jpg");
+	background-repeat: none;
+	background-size: cover;
+
+}
+
+.container {
+	background-color: lightgrey;
+	opacity: 0.75;
+	padding: 20px;
+}
+
+.container:hover {
+	opacity: 1;
+}
+
+.btn {
+	background-color: #000;
+	border: solid 1px white;
+}
+
+
+.btn:hover {
+	color: #FFF;
+}

@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:  border-box;
+}
+
+.rows1 {
+	background-color: lightblue;
+}
+
+.rows2 {
+	background-color: turquiose;
+}
+
+.rows3 {
+	background-color: red;
+}
+
+.rows4 {
+	background-color: indianred;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+}
+
+div {
+	height: 100px;
+	border-left: 1px solid black;
+}
+
+.cols {
+	height: 100px;
+	border: 1 px solid black;
+}
